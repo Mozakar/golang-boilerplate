@@ -1,0 +1,1 @@
+# GoLang Simple Rest api Structure
